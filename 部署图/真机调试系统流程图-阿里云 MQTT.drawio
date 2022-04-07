@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-07T07:02:34.543Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="ah4Z6sOBuSPsX7e9tHc_" version="17.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-07T07:03:02.124Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="xzbzZb1kOxwQAxeVIf52" version="17.4.0" type="github">
   <diagram id="PhYCmYSEU7RuguvKFZsH" name="Page-1">
     <mxGraphModel dx="2066" dy="1154" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -186,7 +186,7 @@
           <mxGeometry x="711" y="1627" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="tyAwpt8ZHr0P3HQWV30K-77" value="&lt;h2&gt;&lt;b&gt;心跳检测 &amp;amp; token 更新&lt;/b&gt;&lt;/h2&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="868" y="1556" width="226" height="16" as="geometry" />
+          <mxGeometry x="868" y="1594" width="226" height="16" as="geometry" />
         </mxCell>
         <mxCell id="tJhC_meMdQzW6-Cx2cmD-3" value="2.3 连接 MQTT 服务器" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=50;exitDy=0;exitPerimeter=0;entryX=0.55;entryY=0.95;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="tJhC_meMdQzW6-Cx2cmD-1" target="tyAwpt8ZHr0P3HQWV30K-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
