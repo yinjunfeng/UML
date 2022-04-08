@@ -1,1 +1,315 @@
-<mxfile host="app.diagrams.net" modified="2022-04-01T09:13:49.431Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.83 Safari/537.36" etag="C6OIvOOo5HpW0JGrsUTx" version="17.4.0" type="github"><diagram id="PhYCmYSEU7RuguvKFZsH" name="Page-1">7V1tc6M4Ev41fBwXktDbR0icm63duZqtubq9u2+OTWLvOiZFyCTZX3+SkGyEhE3i2GDsmaldIxA2kvrp7kfdTYCuHl7/kU8e59+yWboMYDh7DdB1ACEMCRH/ky1vZQsAOCpb7vPFrGwLNw0/Fn+n+kLT+ryYpU+6rWwqsmxZLB7txmm2WqXTwmqb5Hn2Yl92ly1nVsPj5D51Gn5MJ0u39Y/FrJjrB0OIb058TRf3c/3VCIX6lz9MzNW64Wk+mWUvlSY0DtBVnmVF+enh9SpdyuGzB+am4ez6l+XpqmjToXiLXx4L9r+vefgdff39j3+j8Ncv+i5PxZt54nQmBkAfZnkxz+6z1WQ53rQm0+f8ZypvCsRBnj2vZuooFEebDr9l2aO+5M+0KN701E6ei0w0zYuHpT6bvi6K/8juI6yP/ls5c/2q76wO3szBqsjfKp3k4bqXPNh0U0em31MxyYtYLgvRsMpWqWm7WSyX+ppyQOQoNI6zGbTsOZ+mWwYX6QU7ye/TYst1EK+Xg5CkNHtIxY8WHfN0OSkWP+0fMtEr+n593WbOxQc97e9YArC878/J8ll/ExyJ7wqDMQkYD+IkGNMgDgMGgjEO4rFsHLMgRgHD3tXz2+RWwIA1yZPl4n4lPk/FGKa5aPiZ5sVCiFmsTzwsZjO1uPL0afH35FbdT07HY7ZYFeqRcRLg6/UEyRukrz4M0J03gledumYhcIdf3/1LOAoB14+qcewL0aPWeor07b/Lx6lckt3dPYm1UZ/D9a/4+LQiZ1qdybJl92W+KNIfjxO1pF8EnttTeCdE5CpbZrnqi+6w/KvkJ8/+SitniPoje2SrotJe/tk2gY6MNc4JB8iaD0S0WnnZgDTgtGybV/E5pAcSo8gjRpEWo0RIElPyBIL4Rn0YB7Fo4QFTgtUfEGa0CsMbUG4AYnHwPc0XYgilWNfBGZAqOoub4R0ArY7qNzwyauOWqM27BG3sSre7qkQLvwrYtcRtFgexZ50tl8KSUgM6nzzKxukye569Gw1mk5TdTb1oMGXp7d0nST0GltQDDlypN6hflXoWHmgaiEfocYPQR0HCApaoybgJeJ+EHtsyz/cQelCT+H5ZZLylbIN9hVt1Fc81eatcoG0Z1xowAoEjZqs17WbcNHWAlOzXIdL+2EYIyh/9qaYI7dFSB8ha6pTuo98s5yM8zaUOUZd6jHn0GJNORjJW3kYUMCo/JFdSp5UKLYnlNaI9jo1mY+qaRJ2i0mWROMsDjtR9SsWItWLksfoA5NlBuC90q9KUSx7U9Cbpu/PCnWUx/va71quDMmlAxGDPbBpDvfUCri/uiBHW3UDOurBZaGibLKJlqwVSv14v94PaHwb+KnACRtDAyThgUUV9KNJLqAYJMFfDobhC/+KocFyI2FrCcMP91RLApbQuSHUCSNUp3Q1cYhSOkOG7awQKlRaGsEZLm1RYox7j1L3G8f2HASFwF4QAxqgNIaj3EBL1CEI+kYYJRwTa3qlQeAOCENKgz46EIS79CtZkv4eE3WViCAwRp2SLulh4OJAsxeMnt7n4dC8/wRFruL+LSK7jS6WzJEBJtjRuOJweIkVbEUnYNNjs05+OTeNSynr/lUcb6lhMeoLVoorkiorp4BxjTENr5oBRLd35xX2iMfePlegZXQla85UNZsiRkN8lLOGIaGQWQppwhbHXyiAkCt6pDpvgsXy87HExVZcLCRainCj8BvJCz5YRloeMbN8yOj3Y3kVYhhCx3uO0S1EqVhoonFaozIFW7BqnEzm/cpSEQxD+uP7Vmc13xWN8AsZybGNsBD1RFD6MJYfCWNgj7vE93nwFY2tWNz8Fzx3CluBbWiedRaq5PB7UPB4OeGggU+0HwTD+/l2dKvfdS7M7VtawYzELcfynvo3A2YT6zG+qUbuNsV0jBAaB2nA7gyj8SwLtveUvZM99pjdvh8NhuhGDGqYnwmNCajaFDsZmZXWO3TZbiwlzsdtYK1XsxgeTTk/EoUfUauMmRqCwB8d2KzT4VX0Q3dReXHyzYc/XZ0wIByM7SBRFrjqNPNoUHkybujGJYCSOy+heF7h2TlZXuth8fqcuPkkWHbaNP+xYF7sU2C/XY3fFrEmHd5IMOGWzyEcyMHiLVHjxJ8gsimokQ+eb70aF9kDohB9GLbmL9qGjI1sUd2Vq9EIS2WlIIvWgvNnQ2k09K8qB+yJWh2G2NsxNZdcqZLYpZaCtv+QD9IXNtZvsQZHElNWiWbvmiKGHFdrLU+hV1g2rRYgAYNRVd2k3KPSg3yXv5gQNX2Tye3epW9Sw7XccdWt+5nml3jBub6RyjDqGWuSSNeCSe9Pj3BsUtZTvaN/4sA8FsoKI28YEAKEVm+pJpjEEy8d7mFj8g8a/IpeZAyNuiwoLksjsXjZvWlLZwNqGuA0hw+cUt3PaS1oD6B9a0qKapIUMbZUbzKKtHQ4kNi59OtgsFGQTYT1Q7/7A+4tx3g2kRG2Nc9wJpBBsIwpn2/Ng69czfAw8cUP7zi0NBTWYdiedhoL6s1F2gap3QBXaF6r2U3Auhwsa81CIjBRMlN0tvJSkjFQhitJVZnrCB4IP20MDTzPHBPkn5+TphpPc1GtvyHTKMkY+WlsmcTbBA1URHFgFFdOhbuahhrIs1UptwIaH3qODWZBnn/ABaonhkYbNzlzQyMcwdxvr343OgB/KNoF9TjeJ2kZZRTstksiQUWuLhMLeg46/9E33sX102IH2rZddt3uckS9w1OSfeoCrVFHbNtVPztSIGspibeR+E15t4ob6b2v4ykaeWNIS4/aoi1nwBKEcNWsp8hF7Zb6IL/mklk/gWu99geYKHK9VeBtopn0uym1ixA6/Db3fmnKjOnubi1IPDgHIbCd1lowStSosWB+44SSjIF5LRgEgdGHyqNkoxp/zZ6OoBL7SM4qvFRo6nGdfYPGcslFMhvDhQwn2K4ft0mWnl40CWY0B6XwTHvu4qXOMM0d2/AkLu+amMOwNHH5unlCfTUfcNq4Kd1qdCvvC/QAIznvvoJSYRhGX+es2/H7pf5lk7PI0L+ntUzb9S37f8OLUohrTCtb36A6IfZTKujiEECWkxO1GVjDnZXXyK/lPMwPcmLfcW5aCVGaRGT7mWrXEAYPmLmVLZHJcrpRgq6+UFnVpWo81rxNfm70GarYvoG5JvFnhWP64BJniGCWpwXU0vb7z+rve83jyu8qy7uKUwhrZkqhNkHVWosNO+Vkos3pXWaEWc6m04AcyrO7u4NS7kGfkVoaNfU7AJahFtGKPd4YochcyMPWTP38leyrP6Tooc2jqoKwro6wbWpVEIWr3siyoqhIx9G3ED72t31q0Vb/vfFx0XzId9CyBwxkOHs6pzQrgUrMk6v0K3MDJTm/+siZ2J1hS6vEAsW9JHEy9sR75GcaxqEQbfUKiVM+cDNKWcen2rZHYx+aZ9LtDlcDlDfc/3xK4uOGlD2uvBkc2pJhXq/TXqSEulzdsp8Y8sIlYw57Nk6P6NEYLDbSKAaw5kZR72LzjVjEwr5Ntlcx8qWLQ4w0T0valz6TTokHEV6xv+FUM6gVMiNfnOirW+kKtJO0zS2+f7/8lxmJ1KV/QC7u87asp6L4vVFRd359UjWtxUZRar/Z0e4Ba9aQP9GB2nuVh8iaJ720bJlPqUr5gcOULWksaaUgHObSkhXVJw2Sr3OB6vYNahwOJjcvnDrV8AeKwd3q9T2GcF7OctH29COn0dcjElxRsqtnxSPFX6606tWFfRoMmVO/Q6f04InUakyHbKNSaLxbKz2fjW5bmIDgxMsQkYuLyrWeZJhgxmy0TUA87hnrqEpYm/P+SJ3jieYK0LZ1Dd1Y2OcU8Qdqf5XVWeYKtl123LKJZwN6KRueRJ0i3q6vTzBOkPnb41PIEa9tqgGHPNs9R8wSpj+s16S91W97JHOwLEA8yK5C2Tczem93dbwX5E3j7mRVY22yBYeiJZjpqViD1vVz3jLICw/orqgClLigeNSuQfjDm0AVM4WshFU1cBhYmShuRyYMcyvK/ytdSNEfoSy+8hB/WMiAAxi6Nug5TtaKSybuXhzjMs6yoGi7isebfspk0AMf/Bw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-04-08T02:33:50.730Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="15ErnjujmxMlXoEkVYUi" version="17.4.0" type="github">
+  <diagram id="PhYCmYSEU7RuguvKFZsH" name="Page-1">
+    <mxGraphModel dx="2066" dy="1154" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="tyAwpt8ZHr0P3HQWV30K-1" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=none;startFill=0;" parent="1" source="tyAwpt8ZHr0P3HQWV30K-3" target="tyAwpt8ZHr0P3HQWV30K-25" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tyAwpt8ZHr0P3HQWV30K-2" value="2.1 扫码安装" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="tyAwpt8ZHr0P3HQWV30K-1" vertex="1" connectable="0">
+          <mxGeometry x="-0.0195" y="-62" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tyAwpt8ZHr0P3HQWV30K-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="913" y="364" width="197" height="307" as="geometry" />
+        </mxCell>
+        <mxCell id="tyAwpt8ZHr0P3HQWV30K-4" value="2.4 消息推送" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.875;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.16;entryY=0.55;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;startFill=0;" parent="1" source="tyAwpt8ZHr0P3HQWV30K-5" target="tyAwpt8ZHr0P3HQWV30K-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tyAwpt8ZHr0P3HQWV30K-5" value="推送服务" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="951" y="191" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tyAwpt8ZHr0P3HQWV30K-6" value="2.5 消息下发" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.55;exitY=0.95;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;" parent="1" source="tyAwpt8ZHr0P3HQWV30K-9" target="tyAwpt8ZHr0P3HQWV30K-19" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1548" y="339" />
+              <mxPoint x="1276" y="339" />
+              <mxPoint x="1276" y="454" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tyAwpt8ZHr0P3HQWV30K-7" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.13;exitY=0.77;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;" parent="1" source="tyAwpt8ZHr0P3HQWV30K-9" target="tyAwpt8ZHr0P3HQWV30K-23" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tyAwpt8ZHr0P3HQWV30K-8" value="设备开机自动建立链接通道" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="tyAwpt8ZHr0P3HQWV30K-7" vertex="1" connectable="0">
+          <mxGeometry x="0.1311" y="16" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tyAwpt8ZHr0P3HQWV30K-9" value="EMQ 服务" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="1482" y="191" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tyAwpt8ZHr0P3HQWV30K-10" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.875;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.16;entryY=0.55;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;startFill=0;" parent="1" source="tyAwpt8ZHr0P3HQWV30K-16" target="tyAwpt8ZHr0P3HQWV30K-28" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="708" y="227" />
+              <mxPoint x="708" y="91" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tyAwpt8ZHr0P3HQWV30K-11" value="1.2 构建打包" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="tyAwpt8ZHr0P3HQWV30K-10" vertex="1" connectable="0">
+          <mxGeometry x="-0.0361" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tyAwpt8ZHr0P3HQWV30K-12" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.875;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.16;entryY=0.55;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;startFill=0;" parent="1" source="tyAwpt8ZHr0P3HQWV30K-16" target="tyAwpt8ZHr0P3HQWV30K-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tyAwpt8ZHr0P3HQWV30K-13" value="2.3 推送确认设备确认消息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="tyAwpt8ZHr0P3HQWV30K-12" vertex="1" connectable="0">
+          <mxGeometry x="-0.1887" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tyAwpt8ZHr0P3HQWV30K-14" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.55;exitY=0.95;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.625;entryY=0.2;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;startFill=0;" parent="1" source="tyAwpt8ZHr0P3HQWV30K-16" target="tyAwpt8ZHr0P3HQWV30K-60" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tyAwpt8ZHr0P3HQWV30K-15" value="1.4 推送构建打包结果&lt;br&gt;2.8 推送设备链接状态" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="tyAwpt8ZHr0P3HQWV30K-14" vertex="1" connectable="0">
+          <mxGeometry x="0.0539" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tyAwpt8ZHr0P3HQWV30K-16" value="研发流程&lt;br&gt;服务" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="570" y="187" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tyAwpt8ZHr0P3HQWV30K-17" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;" parent="1" source="tyAwpt8ZHr0P3HQWV30K-19" target="tyAwpt8ZHr0P3HQWV30K-22" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tyAwpt8ZHr0P3HQWV30K-18" value="2.6 根据指定 topic 进行消息分发" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="tyAwpt8ZHr0P3HQWV30K-17" vertex="1" connectable="0">
+          <mxGeometry x="0.0238" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tyAwpt8ZHr0P3HQWV30K-19" value="联云组件 / SDK" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="950" y="424" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tyAwpt8ZHr0P3HQWV30K-20" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.55;entryY=0.95;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;startFill=0;" parent="1" source="tyAwpt8ZHr0P3HQWV30K-22" target="tyAwpt8ZHr0P3HQWV30K-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tyAwpt8ZHr0P3HQWV30K-21" value="2.2 启动 APP 上报设备 SN 号&lt;br&gt;2.7 设备链接确认" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="tyAwpt8ZHr0P3HQWV30K-20" vertex="1" connectable="0">
+          <mxGeometry x="0.2626" y="-66" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tyAwpt8ZHr0P3HQWV30K-22" value="调试 APP" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="951" y="568" width="118" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="tyAwpt8ZHr0P3HQWV30K-23" value="设备" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="991.5" y="344" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tyAwpt8ZHr0P3HQWV30K-24" value="1. 1 链接设备" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.16;entryY=0.55;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;startFill=0;" parent="1" source="tyAwpt8ZHr0P3HQWV30K-25" target="tyAwpt8ZHr0P3HQWV30K-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tyAwpt8ZHr0P3HQWV30K-25" value="IDE" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="340" y="191" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tyAwpt8ZHr0P3HQWV30K-26" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.07;exitY=0.4;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.4;entryY=0.1;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;startFill=0;" parent="1" source="tyAwpt8ZHr0P3HQWV30K-28" target="tyAwpt8ZHr0P3HQWV30K-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tyAwpt8ZHr0P3HQWV30K-27" value="1.3 构建打包成消息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="tyAwpt8ZHr0P3HQWV30K-26" vertex="1" connectable="0">
+          <mxGeometry x="-0.1081" y="25" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tyAwpt8ZHr0P3HQWV30K-28" value="构建打包服务" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="786" y="47" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tyAwpt8ZHr0P3HQWV30K-29" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="861" y="1126" width="197" height="307" as="geometry" />
+        </mxCell>
+        <mxCell id="tyAwpt8ZHr0P3HQWV30K-30" value="1.4 消息推送" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.875;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.16;entryY=0.55;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;startFill=0;" parent="1" source="tyAwpt8ZHr0P3HQWV30K-31" target="tyAwpt8ZHr0P3HQWV30K-34" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tyAwpt8ZHr0P3HQWV30K-31" value="推送服务" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="899" y="953" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tyAwpt8ZHr0P3HQWV30K-32" value="1.5 消息下发" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.55;exitY=0.95;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;" parent="1" source="tyAwpt8ZHr0P3HQWV30K-34" target="tyAwpt8ZHr0P3HQWV30K-45" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1496" y="1101" />
+              <mxPoint x="1224" y="1101" />
+              <mxPoint x="1224" y="1216" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tyAwpt8ZHr0P3HQWV30K-33" value="1.9 消费指定 topic 的消息" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.13;exitY=0.77;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.55;entryY=0.95;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;startFill=0;" parent="1" source="tyAwpt8ZHr0P3HQWV30K-34" target="tyAwpt8ZHr0P3HQWV30K-41" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1446" y="1083" />
+              <mxPoint x="584" y="1083" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tyAwpt8ZHr0P3HQWV30K-34" value="EMQ 服务" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="1430" y="953" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tyAwpt8ZHr0P3HQWV30K-35" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.875;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.16;entryY=0.55;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;startFill=0;" parent="1" source="tyAwpt8ZHr0P3HQWV30K-41" target="tyAwpt8ZHr0P3HQWV30K-51" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="656" y="989" />
+              <mxPoint x="656" y="853" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tyAwpt8ZHr0P3HQWV30K-36" value="1.2 构建打包" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="tyAwpt8ZHr0P3HQWV30K-35" vertex="1" connectable="0">
+          <mxGeometry x="-0.0361" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tyAwpt8ZHr0P3HQWV30K-37" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.875;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.16;entryY=0.55;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;startFill=0;" parent="1" source="tyAwpt8ZHr0P3HQWV30K-41" target="tyAwpt8ZHr0P3HQWV30K-31" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tyAwpt8ZHr0P3HQWV30K-38" value="1.3 推送更新内容" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="tyAwpt8ZHr0P3HQWV30K-37" vertex="1" connectable="0">
+          <mxGeometry x="-0.1887" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tyAwpt8ZHr0P3HQWV30K-39" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.55;exitY=0.95;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.4;entryY=0.1;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;startFill=0;" parent="1" source="tyAwpt8ZHr0P3HQWV30K-41" target="tyAwpt8ZHr0P3HQWV30K-54" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tyAwpt8ZHr0P3HQWV30K-40" value="1.10 推送日志消息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="tyAwpt8ZHr0P3HQWV30K-39" vertex="1" connectable="0">
+          <mxGeometry x="-0.0117" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tyAwpt8ZHr0P3HQWV30K-41" value="研发流程&lt;br&gt;服务" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="518" y="949" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tyAwpt8ZHr0P3HQWV30K-42" value="1.6 根据指定 topic 进行消息分发" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;" parent="1" source="tyAwpt8ZHr0P3HQWV30K-45" target="tyAwpt8ZHr0P3HQWV30K-47" edge="1">
+          <mxGeometry x="-0.4083" y="-72" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tyAwpt8ZHr0P3HQWV30K-43" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.55;entryY=0.95;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;startFill=0;" parent="1" source="tyAwpt8ZHr0P3HQWV30K-45" target="tyAwpt8ZHr0P3HQWV30K-34" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tyAwpt8ZHr0P3HQWV30K-44" value="1.8 消息发送" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="tyAwpt8ZHr0P3HQWV30K-43" vertex="1" connectable="0">
+          <mxGeometry x="-0.2118" y="23" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tyAwpt8ZHr0P3HQWV30K-45" value="联云组件 / SDK" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="898" y="1186" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tyAwpt8ZHr0P3HQWV30K-46" value="1.7 上报调试日志" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;startArrow=none;startFill=0;" parent="1" source="tyAwpt8ZHr0P3HQWV30K-47" target="tyAwpt8ZHr0P3HQWV30K-45" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tyAwpt8ZHr0P3HQWV30K-47" value="调试 APP" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="899" y="1330" width="118" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="tyAwpt8ZHr0P3HQWV30K-48" value="设备" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="939.5" y="1106" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tyAwpt8ZHr0P3HQWV30K-49" value="1. 1 同步更新" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.16;entryY=0.55;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;startFill=0;" parent="1" source="tyAwpt8ZHr0P3HQWV30K-50" target="tyAwpt8ZHr0P3HQWV30K-41" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tyAwpt8ZHr0P3HQWV30K-50" value="IDE" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="288" y="953" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tyAwpt8ZHr0P3HQWV30K-51" value="构建打包服务" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="734" y="809" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tyAwpt8ZHr0P3HQWV30K-52" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.07;exitY=0.4;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=none;startFill=0;" parent="1" source="tyAwpt8ZHr0P3HQWV30K-54" target="tyAwpt8ZHr0P3HQWV30K-50" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tyAwpt8ZHr0P3HQWV30K-53" value="1.11 推送日志消息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="tyAwpt8ZHr0P3HQWV30K-52" vertex="1" connectable="0">
+          <mxGeometry x="0.268" y="-16" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tyAwpt8ZHr0P3HQWV30K-54" value="websocket 服务" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="483" y="1221" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tyAwpt8ZHr0P3HQWV30K-55" value="备注：第三方设备 6 月份暂不支持，后续切换到链接平台之后，第三方设备需要集成联云 SDK" style="shape=note;size=20;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="1184" y="506" width="373" height="108" as="geometry" />
+        </mxCell>
+        <mxCell id="tyAwpt8ZHr0P3HQWV30K-56" value="&lt;h2&gt;&lt;b&gt;设备链接流程&lt;/b&gt;&lt;/h2&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="939.5" y="26" width="123" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="tyAwpt8ZHr0P3HQWV30K-57" value="&lt;h2&gt;&lt;b&gt;页面同步更新流程&lt;/b&gt;&lt;/h2&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="861" y="773" width="153" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tyAwpt8ZHr0P3HQWV30K-58" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.4;exitY=0.1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=1;entryDx=0;entryDy=0;startArrow=none;startFill=0;" parent="1" source="tyAwpt8ZHr0P3HQWV30K-60" target="tyAwpt8ZHr0P3HQWV30K-25" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tyAwpt8ZHr0P3HQWV30K-59" value="1.5 推送构建打包结果&lt;br&gt;2.9 推送设备链接状态" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="tyAwpt8ZHr0P3HQWV30K-58" vertex="1" connectable="0">
+          <mxGeometry x="0.541" y="-9" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tyAwpt8ZHr0P3HQWV30K-60" value="websocket 服务" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="460" y="350" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tyAwpt8ZHr0P3HQWV30K-61" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="823" y="1799" width="197" height="307" as="geometry" />
+        </mxCell>
+        <mxCell id="tyAwpt8ZHr0P3HQWV30K-62" value="1.5 消息推送" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.875;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.16;entryY=0.55;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;startFill=0;" parent="1" source="tyAwpt8ZHr0P3HQWV30K-63" target="tyAwpt8ZHr0P3HQWV30K-66" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tyAwpt8ZHr0P3HQWV30K-63" value="推送服务" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="861" y="1626" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tyAwpt8ZHr0P3HQWV30K-64" value="1.6 debugToken下发" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.55;exitY=0.95;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;" parent="1" source="tyAwpt8ZHr0P3HQWV30K-66" target="tyAwpt8ZHr0P3HQWV30K-73" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1458" y="1774" />
+              <mxPoint x="1186" y="1774" />
+              <mxPoint x="1186" y="1889" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tyAwpt8ZHr0P3HQWV30K-65" value="1.3 消费指定 topic 的消息" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.13;exitY=0.77;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.55;entryY=0.95;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;startFill=0;" parent="1" source="tyAwpt8ZHr0P3HQWV30K-66" target="tyAwpt8ZHr0P3HQWV30K-69" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1408" y="1756" />
+              <mxPoint x="546" y="1756" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tyAwpt8ZHr0P3HQWV30K-66" value="EMQ 服务" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="1392" y="1626" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tyAwpt8ZHr0P3HQWV30K-67" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.875;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.16;entryY=0.55;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;startFill=0;" parent="1" source="tyAwpt8ZHr0P3HQWV30K-69" target="tyAwpt8ZHr0P3HQWV30K-63" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tyAwpt8ZHr0P3HQWV30K-68" value="1.4 收到心跳后每 30 秒推送 debugToken" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="tyAwpt8ZHr0P3HQWV30K-67" vertex="1" connectable="0">
+          <mxGeometry x="-0.1887" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tyAwpt8ZHr0P3HQWV30K-69" value="研发流程&lt;br&gt;服务" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="480" y="1622" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tyAwpt8ZHr0P3HQWV30K-70" value="1.7 根据指定 topic 进行消息分发" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;" parent="1" source="tyAwpt8ZHr0P3HQWV30K-73" target="tyAwpt8ZHr0P3HQWV30K-75" edge="1">
+          <mxGeometry x="-0.4083" y="-72" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tyAwpt8ZHr0P3HQWV30K-71" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.55;entryY=0.95;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;startFill=0;" parent="1" source="tyAwpt8ZHr0P3HQWV30K-73" target="tyAwpt8ZHr0P3HQWV30K-66" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tyAwpt8ZHr0P3HQWV30K-72" value="1.2 消息发送" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="tyAwpt8ZHr0P3HQWV30K-71" vertex="1" connectable="0">
+          <mxGeometry x="-0.2118" y="23" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tyAwpt8ZHr0P3HQWV30K-73" value="联云组件 / SDK" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="860" y="1859" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tyAwpt8ZHr0P3HQWV30K-74" value="1.1 心跳上报" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;startArrow=none;startFill=0;" parent="1" source="tyAwpt8ZHr0P3HQWV30K-75" target="tyAwpt8ZHr0P3HQWV30K-73" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tyAwpt8ZHr0P3HQWV30K-75" value="调试 APP" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="861" y="2003" width="118" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="tyAwpt8ZHr0P3HQWV30K-76" value="设备" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="901.5" y="1779" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tyAwpt8ZHr0P3HQWV30K-77" value="&lt;h2&gt;&lt;b&gt;心跳检测 &amp;amp; token 更新&lt;/b&gt;&lt;/h2&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="868" y="1556" width="226" height="16" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
